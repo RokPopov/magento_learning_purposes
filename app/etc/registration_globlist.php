@@ -10,7 +10,7 @@
  */
 return [
     'app/code/*/*/cli_commands.php',
-    'app/code/*/*/registration.php',
+    'app/code/Rok/Learning/registration.php',
     'app/design/*/*/*/registration.php',
     'app/i18n/*/*/registration.php',
     'lib/internal/*/*/registration.php',
