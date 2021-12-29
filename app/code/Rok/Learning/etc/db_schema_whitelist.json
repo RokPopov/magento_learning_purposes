@@ -1,0 +1,14 @@
+{
+    "declarative_table": {
+        "column": {
+            "entity_id": true,
+            "reference_id": true,
+            "title": true,
+            "description": true,
+            "time": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
